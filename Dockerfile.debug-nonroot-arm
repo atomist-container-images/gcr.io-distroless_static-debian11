@@ -1,0 +1,2 @@
+# Tags: debug-nonroot-arm
+FROM gcr.io/distroless/static-debian11:debug-nonroot-arm
