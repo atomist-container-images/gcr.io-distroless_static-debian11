@@ -1,2 +1,2 @@
-# Tags: debug-s390x
+# Tags:  debug-s390x
 FROM gcr.io/distroless/static-debian11:debug-s390x

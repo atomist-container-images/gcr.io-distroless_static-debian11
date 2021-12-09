@@ -1,2 +1,2 @@
-# Tags: debug-arm64
+# Tags:  debug-arm64
 FROM gcr.io/distroless/static-debian11:debug-arm64

@@ -1,2 +1,2 @@
-# Tags: debug
+# Tags:  debug
 FROM gcr.io/distroless/static-debian11:debug

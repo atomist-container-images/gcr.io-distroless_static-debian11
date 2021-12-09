@@ -1,2 +1,2 @@
-# Tags: debug-nonroot
+# Tags:  debug-nonroot
 FROM gcr.io/distroless/static-debian11:debug-nonroot

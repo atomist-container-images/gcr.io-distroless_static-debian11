@@ -1,2 +1,2 @@
-# Tags: debug-ppc64le
+# Tags:  debug-ppc64le
 FROM gcr.io/distroless/static-debian11:debug-ppc64le

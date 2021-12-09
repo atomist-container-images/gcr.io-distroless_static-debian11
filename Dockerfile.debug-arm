@@ -1,2 +1,2 @@
-# Tags: debug-arm
+# Tags:  debug-arm
 FROM gcr.io/distroless/static-debian11:debug-arm
