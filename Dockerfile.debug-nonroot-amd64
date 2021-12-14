@@ -1,2 +1,0 @@
-# Tags:  debug-nonroot-amd64
-FROM gcr.io/distroless/static-debian11:debug-nonroot-amd64

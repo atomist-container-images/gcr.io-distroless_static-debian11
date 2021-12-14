@@ -1,3 +1,0 @@
-# Tags:  59368ad78dbdf87ca5ef18a91bb6f4c390fcbaee, edb3dcaf3abc2f08265282962558d14371ecee4a
-FROM gcr.io/distroless/static-debian11:59368ad78dbdf87ca5ef18a91bb6f4c390fcbaee
-FROM gcr.io/distroless/static-debian11:edb3dcaf3abc2f08265282962558d14371ecee4a
